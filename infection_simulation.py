@@ -4,7 +4,6 @@ import plotly.graph_objs as go
 import networkx as nx
 import random
 from collections import Counter
-
 # Default Parameters
 DEFAULT_N = 500
 DEFAULT_K = 10
